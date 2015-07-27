@@ -1,0 +1,20 @@
+sample\img (1).jpg -Happy
+
+sample\img (10).tiff -Disgust
+
+sample\img (2).tiff -Suprise
+
+sample\img (3).png -Happy
+
+sample\img (4).png -Fear
+
+sample\img (5).png -Disgust
+
+sample\img (6).png -Sad
+
+sample\img (7).png -Suprise
+
+sample\img (8).tiff -Sad
+
+sample\img (9).png -Disgust
+
