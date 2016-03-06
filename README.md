@@ -1,7 +1,7 @@
 # Facial-Expression-Detection
 ###HOW TO RUN and get expression for a particular image using matlab:
 
-1. Run ann.m to build the neural network. Open the MATLAB command window and execute the following command: ```>> ann.m```
+1. Run ann.m to build the neural network. Open the MATLAB command window and execute the following command: ```>> ann```
 
 2. Place the image to test in the “sample” folder provided. Open the MATLAB command window and execute the following command: ```>> test()```
 
